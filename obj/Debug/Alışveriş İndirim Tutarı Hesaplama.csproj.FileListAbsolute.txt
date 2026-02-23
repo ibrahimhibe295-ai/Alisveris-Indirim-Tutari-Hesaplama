@@ -1,0 +1,11 @@
+C:\Users\HİBE\Source\Repos\ATM oluşturma\ATM oluşturma\Alışveriş İndirim Tutarı Hesaplama\Alışveriş İndirim Tutarı Hesaplama\bin\Debug\Alışveriş İndirim Tutarı Hesaplama.exe.config
+C:\Users\HİBE\Source\Repos\ATM oluşturma\ATM oluşturma\Alışveriş İndirim Tutarı Hesaplama\Alışveriş İndirim Tutarı Hesaplama\bin\Debug\Alışveriş İndirim Tutarı Hesaplama.exe
+C:\Users\HİBE\Source\Repos\ATM oluşturma\ATM oluşturma\Alışveriş İndirim Tutarı Hesaplama\Alışveriş İndirim Tutarı Hesaplama\bin\Debug\Alışveriş İndirim Tutarı Hesaplama.pdb
+C:\Users\HİBE\Source\Repos\ATM oluşturma\ATM oluşturma\Alışveriş İndirim Tutarı Hesaplama\Alışveriş İndirim Tutarı Hesaplama\obj\Debug\Alışveriş İndirim Tutarı Hesaplama.csproj.AssemblyReference.cache
+C:\Users\HİBE\Source\Repos\ATM oluşturma\ATM oluşturma\Alışveriş İndirim Tutarı Hesaplama\Alışveriş İndirim Tutarı Hesaplama\obj\Debug\Alışveriş_İndirim_Tutarı_Hesaplama.Form1.resources
+C:\Users\HİBE\Source\Repos\ATM oluşturma\ATM oluşturma\Alışveriş İndirim Tutarı Hesaplama\Alışveriş İndirim Tutarı Hesaplama\obj\Debug\Alışveriş_İndirim_Tutarı_Hesaplama.Properties.Resources.resources
+C:\Users\HİBE\Source\Repos\ATM oluşturma\ATM oluşturma\Alışveriş İndirim Tutarı Hesaplama\Alışveriş İndirim Tutarı Hesaplama\obj\Debug\Alışveriş İndirim Tutarı Hesaplama.csproj.GenerateResource.cache
+C:\Users\HİBE\Source\Repos\ATM oluşturma\ATM oluşturma\Alışveriş İndirim Tutarı Hesaplama\Alışveriş İndirim Tutarı Hesaplama\obj\Debug\Alışveriş İndirim Tutarı Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\HİBE\Source\Repos\ATM oluşturma\ATM oluşturma\Alışveriş İndirim Tutarı Hesaplama\Alışveriş İndirim Tutarı Hesaplama\obj\Debug\Alışveriş İndirim Tutarı Hesaplama.exe
+C:\Users\HİBE\Source\Repos\ATM oluşturma\ATM oluşturma\Alışveriş İndirim Tutarı Hesaplama\Alışveriş İndirim Tutarı Hesaplama\obj\Debug\Alışveriş İndirim Tutarı Hesaplama.pdb
+C:\Users\HİBE\Source\Repos\ATM oluşturma\ATM oluşturma\Alışveriş İndirim Tutarı Hesaplama\Alışveriş İndirim Tutarı Hesaplama\obj\Debug\Alışveriş İndirim Tutarı Hesaplama.exe.config
